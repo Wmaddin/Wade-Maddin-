@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  * @author Wade Maddin
  */
-public class Prism {
+public class Prism extends Object3D {
 
     double a, b, c, widthP;
 

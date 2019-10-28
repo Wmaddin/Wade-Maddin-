@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  * @author Wade Maddin
  */
-public class Sphere {
+public class Sphere extends Object3D{
 
     double ra, rb, rc;
 

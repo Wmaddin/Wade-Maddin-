@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  * @author Wade Maddin
  */
-public class Cone {
+public class Cone extends Object3D{
 
     double heightCO, radiusCO;
 

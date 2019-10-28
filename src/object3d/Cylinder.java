@@ -12,11 +12,11 @@ import java.util.Scanner;
  *
  * @author Wade Maddin
  */
-public class Cylinder {
+public class Cylinder extends Object3D{
 
     double heightCY, radiusCY;
 
-    public void Cylinder() {
+    public void Cylinder(){
         Scanner sc = new Scanner(System.in);
         System.out.println("You've chosen Cylinder:");
         while (true) {
